@@ -1,0 +1,16 @@
+{
+  "name": "chaiback",
+  "version": "1.0.0",
+  "description": "A backend from chai aur backend",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Dev Sheta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
